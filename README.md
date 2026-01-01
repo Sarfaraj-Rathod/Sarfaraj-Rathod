@@ -26,8 +26,7 @@ I build, scale, and **operate production systems end‑to‑end** — from backe
 
 ### Frontend / Clients
 
-* **Next.js**, **JavaScript / TypeScript**
-* **Flutter** (mobile & desktop clients)
+* **HTML**, **JavaScript**, **CSS**
 
 ### Cloud & DevOps
 
