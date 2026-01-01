@@ -73,9 +73,9 @@ I build, scale, and **operate production systems end‑to‑end** — from backe
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *Add your LinkedIn URL here*
+* 💼 LinkedIn: *https://www.linkedin.com/in/sarfaraj-rathod-a9b126303/*
 * 🧑‍💻 GitHub: You’re already here 😄
-* ✉️ Email: *optional*
+* ✉️ Email: *sarfaraj.rathod.tech@gmail.com*
 
 ---
 
