@@ -44,7 +44,7 @@ I build, scale, and **operate production systems end‑to‑end** — from backe
 
 ### AI / Data
 
-* OpenAI, Mistral AI integrations
+* OpenAI, gemini AI, Anthropic AI, Mistral AI integrations
 * **RAG pipelines** with LlamaIndex
 * **Vector DB**: Qdrant
 * Semantic search & structured query handling
