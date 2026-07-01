@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sarfaraj Rathod
 
-🚀 **Senior Backend / Full‑Stack Engineer | Platform & DevOps‑oriented**
+🚀 **Backend / Full‑Stack Engineer | Platform & DevOps‑oriented**
 
 I build, scale, and **operate production systems end‑to‑end** — from backend architecture and real‑time pipelines to cloud infrastructure, security, and incident response.
 
