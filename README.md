@@ -1,18 +1,19 @@
 # Hi 👋, I'm Sarfaraj Rathod
 
-🚀 **Backend / Full‑Stack Engineer | Platform & DevOps‑oriented**
+🚀 **Software Engineer | Backend & AI | Production Systems | Cloud Infrastructure**
 
-I build, scale, and **operate production systems end‑to‑end** — from backend architecture and real‑time pipelines to cloud infrastructure, security, and incident response.
+I build, deploy, and operate production-grade backend systems, AI-powered applications, and cloud infrastructure. My passion is combining backend engineering with modern AI technologies to build reliable, scalable, and production-ready software.
 
 ---
 
 ## 🧠 About Me
 
-* 🔧 Backend‑heavy engineer with **full ownership mindset**
-* 🧩 Specialized in **multi‑tenant SaaS**, **real‑time systems**, and **secure media pipelines**
-* ☁️ Strong hands‑on experience with **AWS & Linux production environments**
-* 🔐 Security‑first thinking: RBAC, presigned URLs, auth flows, incident containment
-* 📈 Career focus: **Senior → Staff‑level backend / platform roles**
+* 🔧 Software Engineer specializing in **Backend Engineering & Applied AI**
+* 🏗️ Experienced in designing scalable APIs, distributed systems, and multi-tenant SaaS platforms
+* 🤖 Build AI-powered applications using **LLMs, LangChain, LangGraph, Retrieval-Augmented Generation (RAG), and Vector Databases**
+* ☁️ Hands-on experience managing **AWS, Linux, Docker, Nginx, and production deployments**
+* 🚀 Deploy AI inference workloads using **Runpod Serverless GPU** and Hugging Face models
+* 📈 Passionate about backend architecture, cloud infrastructure, AI integration, and production reliability
 
 ---
 
@@ -20,63 +21,108 @@ I build, scale, and **operate production systems end‑to‑end** — from backe
 
 ### Backend
 
-* **Python**: Django, Django REST Framework, Flask, Celery
-* **Databases**: PostgreSQL, SQLite (multi‑tenant), Redis
-* **APIs**: REST, WebSockets, real‑time data streams
+* **Python**
+* Django
+* Django REST Framework
+* Flask
+* Celery
+* RabbitMQ
+* gRPC
+* REST APIs
 
-### Frontend / Clients
+### AI & LLM Engineering
 
-* **HTML**, **JavaScript**, **CSS**
+* LangChain
+* LangGraph
+* OpenAI
+* Google Gemini
+* Hugging Face
+* Transformers
+* Retrieval-Augmented Generation (RAG)
+* Semantic Search
+* Prompt Engineering
+* Qdrant Vector Database
+
+### Databases
+
+* PostgreSQL
+* Redis
+* MySQL
+* SQLite
+* MongoDB
+* Qdrant
+
+### Frontend
+
+* Next.js
+* JavaScript
+* HTML
+* CSS
 
 ### Cloud & DevOps
 
-* **AWS**: EC2, S3, CloudFront, Route53, IAM, Lambda, API Gateway
-* Presigned URLs, AMIs (cross‑region & cross‑account), EBS
-* **Linux (Ubuntu)**, Nginx, PM2, Uvicorn
-* **Docker** (actively using & improving)
-* **Hetzner** dedicated & cloud servers
+* AWS (EC2, S3, CloudFront, Route53, IAM, Lambda)
+* Runpod
+* Docker
+* Linux (Ubuntu)
+* Nginx
+* Hetzner Cloud
+* PM2
 
-### Real‑Time / Media
+### Real-Time Systems
 
-* WebSockets, RTMP pipelines
-* Video streaming & **360° media processing**
-* Secure media delivery at scale
-
-### AI / Data
-
-* OpenAI, gemini AI, Anthropic AI, Mistral AI integrations
-* **RAG pipelines** with LlamaIndex
-* **Vector DB**: Qdrant
-* Semantic search & structured query handling
+* Django Channels
+* WebSockets
+* RTSP
+* RTMP
 
 ---
 
-## 🏗️ What I’ve Built
+## 🚀 Featured Projects
 
-* 🏢 **Multi‑tenant SaaS platforms** with role‑based access control
-* 📊 **Real‑time market data systems** (low‑latency, high‑reliability)
-* 🎥 **Video & CCTV pipelines** (RTSP → processing → secure delivery)
-* 🔐 Secure asset access using **AWS presigned URLs + CloudFront**
-* 🧯 Production systems with **incident ownership** (debugging, mitigation, long‑term fixes)
+### 🤖 BytronAI – Agentic RAG Document Assistant
+
+* Built an AI-powered document assistant using LangChain, LangGraph, OpenAI, and Qdrant.
+* Implemented document ingestion, chunking, embeddings, semantic search, and conversational memory.
+* Developed production-ready backend APIs using Django REST Framework.
+* Integrated AI agents capable of answering questions from uploaded documents and live web search.
+
+### 🎨 AI Image Editing Platform
+
+* Deployed **Qwen Image Edit 2511** on **Runpod Serverless GPU**.
+* Integrated Hugging Face models with scalable inference endpoints.
+* Built backend APIs for AI image editing workflows.
+* Optimized deployment configuration and inference performance.
+
+### 🏗️ Construction Site Management SaaS
+
+* Built scalable backend services with Django REST Framework.
+* Implemented AI-powered document search using RAG and Qdrant.
+* Integrated OpenAI, Gemini, and Mistral AI for project-specific assistants.
+
+### 📈 Real-Time Trading Platform
+
+* Developed real-time backend services using Django Channels and WebSockets.
+* Built APIs for live and off-market data processing.
+* Implemented scalable backend workflows for financial data delivery.
 
 ---
 
-## 🧠 Engineering Philosophy
+## 💡 Engineering Philosophy
 
-* **Production > Theory**
-* **Observability before scale**
-* **Security is not optional**
-* **Simple systems fail less**
-* Incidents are learning tools, not blame games
+* Production-first engineering
+* Build reliable systems before optimizing them
+* Keep architectures simple, maintainable, and scalable
+* Security and performance are core design principles
+* AI should solve real user problems—not just showcase technology
+* Continuous learning and practical implementation drive growth
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *https://www.linkedin.com/in/sarfaraj-rathod-a9b126303/*
-* 🧑‍💻 GitHub: You’re already here 😄
-* ✉️ Email: *sarfaraj.rathod.tech@gmail.com*
+💼 LinkedIn: https://www.linkedin.com/in/sarfaraj-rathod-a9b126303/
 
----
+📧 Email: [sarfaraj.rathod.tech@gmail.com](mailto:sarfaraj.rathod.tech@gmail.com)
 
-⭐ If you care about **clean backend architecture, reliability, and real‑world engineering**, you’ll probably like my work.
+⭐ I enjoy building production-grade backend systems, AI-powered applications, and scalable cloud solutions. If you're interested in backend engineering, Generative AI, or modern cloud infrastructure, feel free to connect!
